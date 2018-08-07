@@ -1,2 +1,2 @@
 # devopsfit
-repositório criado na aula de DevOps
+repositório criado na aula de DevOps.
